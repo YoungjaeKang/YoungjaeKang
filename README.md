@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-<a href="https://toypanda.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/notion-#000000?style=plastic&logo=tistory&logoColor=#000000"/></a>
+<a href="https://toypanda.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/any%20text-you%20like-blue"/></a>
+
 
 <!--
 **YoungjaeKang/YoungjaeKang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
