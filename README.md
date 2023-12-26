@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://toypanda.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/any%20text-you%20like-blue"/></a>
+<a href="https://toypanda.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/any%20text-you%20like-blue?logo=tistory"/></a>
 
 
 <!--
