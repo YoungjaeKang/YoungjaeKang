@@ -2,7 +2,7 @@
 
 <a href="https://toypanda.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-grey?style=for-the-badge&logo=tistory"/></a>
 
-![YoungjaeKang's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoungjaeKang&show_icons=true&theme=radical)
+![YoungjaeKang's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoungjaeKang&show_icons=true&theme=transparent )
 
 
 <!--
