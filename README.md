@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/notion?style=plastic&logo=notion&logoColor=#000000"/></a>
+<a href="https://toypanda.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/notion-#000000?style=plastic&logo=tistory&logoColor=#000000"/></a>
 
 <!--
 **YoungjaeKang/YoungjaeKang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
