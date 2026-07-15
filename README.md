@@ -1,10 +1,10 @@
 ### 👋 Builder who ships.
 
 기획부터 백엔드·프론트까지 직접 만들며 제품을 개발합니다.
-PM·데이터 분석에서 시작해 지금은 풀스택으로 여러가지 프로젝트를 진행하고 있어요.
+PM·데이터 분석에서 시작해 지금은 풀스택으로 웹·모바일 프로젝트를 진행하고 있어요.
 
 I build things end to end — from idea to backend to frontend.
-Started in data analysis, now working on full-stack side projects.
+Started in data analysis, now working on full-stack projects.
 
 
 #### 🛠️ Stack
